@@ -5,7 +5,7 @@
 }
 
 .jumbotron {
-    background-image: url(../images/concert\ heart.jpg);
+    background-image: url(../images/concertheart.jpg);
     background-repeat: no-repeat;
     background-position: 100% 47%;
     background-size: 100% auto;
@@ -56,7 +56,7 @@
 }
 
 .emailContain {
-    background-image: url(../images/concert\ heart.jpg);
+    background-image: url(../images/concertheart.jpg);
     background-size: 100% ;
     display: flex;
     align-items: center;
